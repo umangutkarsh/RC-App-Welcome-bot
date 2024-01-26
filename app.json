@@ -1,0 +1,15 @@
+{
+    "id": "5bd1e34b-3902-4ec7-a3a2-54d88152597a",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Umang Utkarsh",
+        "homepage": "home",
+        "support": "support"
+    },
+    "name": "umangwelcomebot",
+    "nameSlug": "umangwelcomebot",
+    "classFile": "UmangwelcomebotApp.ts",
+    "description": "Welcome-Bot"
+}
