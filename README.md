@@ -1,2 +1,2 @@
-### A demo RC-app welcome bot.
+### A demo RC-app welcome bot
 
